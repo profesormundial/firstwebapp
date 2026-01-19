@@ -1,0 +1,5 @@
+
+{
+  "name": "ProjectilX: Simulación de Movimiento Parabólico",
+  "description": "Una aplicación avanzada para simular y analizar el movimiento de proyectiles en tiempo real. Permite ajustar parámetros físicos como ángulo, gravedad (Tierra, Luna, Marte, Sol), velocidad inicial, altura y masa, con visualización dinámica y análisis asistido por IA."
+}
